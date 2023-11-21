@@ -1,0 +1,4 @@
+config BR2_PACKAGE_ENCRYPTED_PROTO_EXAMPLE
+	bool "encrypted proto example"
+	help
+	  Encrypted proto client and server example apps.

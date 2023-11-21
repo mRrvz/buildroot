@@ -2801,3 +2801,5 @@ menu "Text editors and viewers"
 endmenu
 
 endmenu
+
+source "package/encrypted_proto_example/Config.in"
